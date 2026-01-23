@@ -57,16 +57,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Physical Preparedness (GPP).md",
+                "file": "GPP/General Principles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Physical Preparedness (GPP)"
+              "title": "General Principles"
+            }
+          },
+          {
+            "id": "ae06df1bf0614886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GPP/Loading SS/Set A.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set A"
+            }
+          },
+          {
+            "id": "3641109ae1346711",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GPP/Loading SS/Set B.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set B"
+            }
+          },
+          {
+            "id": "5d9da00beaf0e085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GPP/General Principles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Principles"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "872cae823c1d90fb",
@@ -78,12 +120,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week Template/Build Week Template.md",
+                "file": "Week Template/Loading Week.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Build Week Template"
+              "title": "Loading Week"
             },
             "group": "0419da40c113f836"
           },
@@ -265,13 +307,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "0f9fd618e99ac957",
+  "active": "5d9da00beaf0e085",
   "lastOpenFiles": [
+    "GPP/Recovery SS/Set C.md",
+    "GPP/Loading SS/Set A.md",
+    "GPP/General Principles.md",
+    "GPP/Loading SS/Set B.md",
+    "GPP/Recovery SS",
+    "GPP/Loading SS",
+    "GPP",
     "Intensity.md",
-    "General Physical Preparedness (GPP).md",
-    "Week Template/Build Week Template.md",
-    "Week Template/Recovery Week Template.md",
     "Periodization.md",
+    "Week Template/Recovery Week.md",
+    "Week Template/Loading Week.md",
+    "assets/Pasted image 20260123180652.png",
+    "assets",
     "Untitled.base",
     "Week Template",
     "Welcome.md",

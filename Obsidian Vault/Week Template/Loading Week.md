@@ -4,7 +4,7 @@
 | ----------------- | ----------------------------------------: |
 | Estimated TSS     |                                  ~750–850 |
 | Strength Sessions |                                         2 |
-| Hard Sessions     |                                         3 |
+| Hard Sessions     |                     2 (One bike, One run) |
 
 ### Monday (WFH – low stress day)
 ---
