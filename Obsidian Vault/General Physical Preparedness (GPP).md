@@ -1,0 +1,2 @@
+I believe in the fact that muscles grow much more faster and stronger by doing the same strength sessions and exercises over and over, than by trying new exercises every week. 
+In triathlon, muscles and especially tendons are constantly subjected to repetitive stress (biking/running/swimming = repetition of the same movement again and again) 
