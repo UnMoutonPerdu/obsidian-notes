@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Triathlon/Metrics/Intensity Factor.md",
+                "file": "Triathlon/Metrics/Chronic Training Load.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intensity Factor"
+              "title": "Chronic Training Load"
             },
             "group": "66151bbffc3831be"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Triathlon/Metrics/Intensity Factor.md",
+                "file": "Triathlon/Metrics/Chronic Training Load.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intensity Factor"
+              "title": "Chronic Training Load"
             },
             "group": "66151bbffc3831be"
           }
@@ -207,31 +207,44 @@
   },
   "active": "9123399c7059413e",
   "lastOpenFiles": [
+    "Triathlon/Metrics/Training Stress Balance.md",
+    "Triathlon/Metrics/Training Stress Score.md",
+    "Triathlon/Training Overview.md",
+    "Triathlon/Training Planning/Performance Management Chart.md",
+    "Triathlon/Training Planning",
+    "Triathlon/Metrics/Acute Training Load.md",
+    "Triathlon/Metrics/Chronic Training Load.md",
+    "Triathlon/Nutrition/Race Day Nutrition.md",
+    "Triathlon/Nutrition/Daily Nutrition.md",
     "Triathlon/Metrics/Normalized Power.md",
     "Triathlon/Metrics/Intensity Factor.md",
-    "Triathlon/Metrics",
-    "Triathlon/assets/np_formula.png",
-    "Triathlon/Metrics/Training Stress Score.md",
-    "Triathlon",
-    "Triathlon/Periodization/Cycles.md",
-    "Triathlon/Week Template/Loading Week v2.md",
-    "Triathlon/Periodization/Intensity.md",
-    "Triathlon/Periodization",
-    "Triathlon/Week Template/Loading Week.md",
-    "Triathlon/GPP/General Principles.md",
-    "Triathlon/GPP/Loading SS/Set B.md",
+    "Triathlon/Metrics/Critical Swim Speed.md",
+    "Triathlon/Injury Prevention/Common Injuries.md",
     "Triathlon/GPP/Loading SS/Set A.md",
     "Triathlon/GPP/Recovery SS/Set C.md",
-    "Triathlon/GPP/Recovery SS",
-    "Triathlon/GPP/Loading SS",
-    "Triathlon/GPP",
+    "Triathlon/GPP/Loading SS/Set B.md",
+    "Triathlon/Periodization/Intensity.md",
+    "Triathlon/Equipment Guide.md",
+    "Triathlon/Swimming/Open Water Skills.md",
+    "Triathlon/Race Prep/Race Day Execution.md",
+    "Triathlon/Injury Prevention",
+    "Triathlon/Swimming/Swim Drills.md",
+    "Triathlon/Swimming",
+    "Triathlon/Testing/FTP Test Protocol.md",
+    "Triathlon/Testing",
+    "Triathlon/Recovery/Sleep and Recovery.md",
+    "Triathlon/Recovery",
+    "Triathlon/Race Prep/Transition Training.md",
+    "Triathlon/Race Prep/Taper Strategy.md",
+    "Triathlon/Race Prep",
+    "Triathlon/Nutrition",
     "Triathlon/Week Template/Recovery Week.md",
+    "Triathlon/Week Template/Loading Week v2.md",
+    "Triathlon/Metrics",
+    "Triathlon/assets/np_formula.png",
+    "Triathlon",
+    "Triathlon/Periodization",
     "Triathlon/assets/Pasted image 20260123180652.png",
-    "Triathlon/assets",
-    "Untitled.base",
-    "Triathlon/Week Template",
-    "Welcome.md",
-    "create a link.md",
     "Untitled.canvas"
   ]
 }
